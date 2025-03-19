@@ -1,0 +1,12 @@
+{
+    "rules": {
+        "no-unused-vars": "error",
+        "no-console": "warn",
+        "no-debugger": "error",
+        "no-duplicate-imports": "error",
+        "no-unused-private-class-members": "error",
+        "no-var": "error",
+        "prefer-const": "error",
+        "use-const": "error"
+    }
+}
