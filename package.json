@@ -39,7 +39,6 @@
         "postcss": "^8.4.35",
         "prettier": "^3.5.3",
         "prettier-plugin-tailwindcss": "^0.6.11",
-        "sass": "^1.86.0",
         "typescript": "^5.8.2",
         "vite": "^6.2.2",
         "vite-plugin-pwa": "^0.21.1"
